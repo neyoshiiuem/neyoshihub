@@ -1,6 +1,3 @@
-
-
-
 function Attack1Function()
 	local ac = CombatFrameworkR.activeController
 	if ac and ac.equipped then
